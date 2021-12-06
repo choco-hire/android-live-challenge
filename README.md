@@ -1,4 +1,7 @@
+
 # Choco Droid Live Code
+ 
+ Clone the repository
  
  Create a simple application that consist in show a list of products returned from the API
  
